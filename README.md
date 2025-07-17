@@ -6,7 +6,7 @@
 
 ---
 
-### 🧰 Tech Stack
+<h3 align="center">🧰 Tech Stack<h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -22,29 +22,21 @@
 </p>
 
 ---
-🚀 Currently Learning
+<h3 align="center">🚀 Currently Learning<h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
----
-
-### 📌 Featured Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| 🛒 SVR Shop | Solo e-commerce game shop website built using PHP & Bootstrap | [View Repo](https://github.com/FawwasSabil25/pw2023_223040114/tree/main/Tubes) |
-| 📋 Simple To-do App | LocalStorage-based To-Do List using vanilla JS | _Coming Soon_ |
 
 ---
 
-### 📫 Let's Connect!
+<h3 align="center">📫 Let's Connect!<h3>
 <p align="center">
-  <a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/fawassabil"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="fawwas2573@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-⭐️ _Thanks for visiting! Feel free to explore my projects and drop a star!_
+⭐ thanks for visiting!! :D
