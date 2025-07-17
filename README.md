@@ -1,13 +1,37 @@
-# Hi there 👋, I'm Fawwas!
+<h1 align="center">Hi 👋, I'm Fawwas!</h1>
+<p align="center">
+  🚀 Passionate about <b>coding</b>, <b>web dev</b>, and building cool stuff<br/>
+  💡 Always learning and exploring new tech!
+</p>
 
-I'm a Computer Science student at Universitas Pasundan. I like building web apps, experimenting with backend stuff, and making cool projects!
+---
 
-## My Projects
--  [Cosmic Bunny](https://github.com/rezaageng/cosmic-bunny): Game e-commerce platform
--  [MangTodo Backend](https://github.com/RafiAkem/BE-MangTodo): RESTful API for Todo App
--  [SVR Shop](https://github.com/FawwasSabil25/pw2023_223040114/tree/main/tubes): PHP-based e-commerce site
-- more coming soon!! :D
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-## Contact Me
--  Email: fawwas2573@gmail.com
--  Instagram : [@fawassabil](https://www.instagram.com/fawassabil)
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| 🛒 SVR Shop | Solo e-commerce game shop website built using PHP & Bootstrap | [View Repo](https://github.com/FawwasSabil25/pw2023_223040114/tree/main/Tubes) |
+| 📋 Simple To-do App | LocalStorage-based To-Do List using vanilla JS | _Coming Soon_ |
+
+---
+
+### 📫 Let's Connect!
+<p align="center">
+  <a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+⭐️ _Thanks for visiting! Feel free to explore my projects and drop a star!_
